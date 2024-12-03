@@ -84,8 +84,6 @@ connection = DriverManager.getConnection("jdbc:mysql://<hostname>:<port>/<databa
   
    <img src="https://github.com/MahsaNasehi/Tweeter_Application/assets/116074621/00624191-5bb8-4933-879b-10a8a8d32355" width="650" height="500">
 
-   <img src="https://github.com/MahsaNasehi/Tweeter_Application/assets/116074621/ca7e013f-2846-4f61-a413-d5c517450754" width="650" height="500">
-
    <img src="https://github.com/MahsaNasehi/Tweeter_Application/assets/116074621/6de2c62a-4063-423c-af33-0dbdc8ea8a37" width="650" height="500">
 
    <img src="https://github.com/MahsaNasehi/Tweeter_Application/assets/116074621/b9f9e4e9-ad4b-46a6-a247-37acad7776a9" width="650" height="500">

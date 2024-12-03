@@ -79,6 +79,22 @@ connection = DriverManager.getConnection("jdbc:mysql://<hostname>:<port>/<databa
     - Look up other users (ensure to search for names of users who have already signed up).
     - Navigate through your followers and followings to manage and discover connections.
     - When you're done, you can safely exit the application.
+  
+   <img src="https://github.com/MahsaNasehi/Tweeter_Application/assets/116074621/00624191-5bb8-4933-879b-10a8a8d32355" width="650" height="500">
+
+   <img src="https://github.com/MahsaNasehi/Tweeter_Application/assets/116074621/ca7e013f-2846-4f61-a413-d5c517450754" width="650" height="500">
+
+   <img src="https://github.com/MahsaNasehi/Tweeter_Application/assets/116074621/6de2c62a-4063-423c-af33-0dbdc8ea8a37" width="650" height="500">
+
+   <img src="https://github.com/MahsaNasehi/Tweeter_Application/assets/116074621/b9f9e4e9-ad4b-46a6-a247-37acad7776a9" width="650" height="500">
+
+   <img src="https://github.com/MahsaNasehi/Tweeter_Application/assets/116074621/4f11b483-6d90-4388-81f7-411d00597212" width="650" height="500">
+
+   <img src="https://github.com/MahsaNasehi/Tweeter_Application/assets/116074621/0777dbe0-2f26-4c71-816e-46684648f408" width="650" height="500">
+
+   <img src="https://github.com/MahsaNasehi/Tweeter_Application/assets/116074621/33ed03ff-5fcc-4af8-b884-20b7df646d09" width="650" height="500">
+
+   <img src="https://github.com/MahsaNasehi/Tweeter_Application/assets/116074621/00789027-37e4-4b67-80cf-1f05c3782f95" width="650" height="500">
 
 ## License
 

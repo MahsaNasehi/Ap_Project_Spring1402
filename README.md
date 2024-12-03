@@ -2,6 +2,8 @@
 
 A simple implementation of a Twitter-like platform. This project was created as part of an Advanced Programming course and allows users to perform essential social media activities in an intuitive and lightweight way.
 
+<img src="https://github.com/MahsaNasehi/Tweeter_Application/assets/116074621/289b8ce8-40bd-4d52-a61a-f07d44312526" width="650" height="500"> <img src="https://github.com/MahsaNasehi/Tweeter_Application/assets/116074621/8301d44c-52b8-43a1-a755-ab23a9866c8e" width="650" height="500">
+
 ## Features
 ### User Management
 

@@ -98,7 +98,7 @@ connection = DriverManager.getConnection("jdbc:mysql://<hostname>:<port>/<databa
 
 ## License
 
-
+The project is licensed under the MIT License.[LICENSE](LICENSE)
 
 ## Authors  
 - **Mahsa Nasehi** [GitHub Profile](https://github.com/MahsaNasehi)

@@ -68,7 +68,7 @@ connection = DriverManager.getConnection("jdbc:mysql://<hostname>:<port>/<databa
 3. Sign Up
    Create an account to get started.
    
-   <img src="https://github.com/MahsaNasehi/Tweeter_Application/assets/116074621/289b8ce8-40bd-4d52-a61a-f07d44312526](https://github.com/MahsaNasehi/Tweeter_Application/assets/116074621/18587524-0d89-4198-81be-acb4a97805cd)" width="650" height="500">
+   <img src="https://github.com/MahsaNasehi/Tweeter_Application/assets/116074621/18587524-0d89-4198-81be-acb4a97805cd" width="650" height="500">
    
 5. Explore and Engage
    Use the user-friendly interface to:

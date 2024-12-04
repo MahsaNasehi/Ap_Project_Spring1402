@@ -58,7 +58,7 @@ connection = DriverManager.getConnection("jdbc:mysql://<hostname>:<port>/<databa
   Open the project in your preferred Java IDE (e.g., IntelliJ IDEA or Eclipse) to start development or testing.
 
 4. Set Up and Run the **Server** and **Client**
-    - Run the server file first to start the server.
+    - Run the TwitterApplication.java file first to start the server.
     - Then, run the client file to launch the client application.
     - Ensure both the server and client are running simultaneously for the application to function correctly.
 

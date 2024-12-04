@@ -1,4 +1,4 @@
-# Twitter
+# 🌐 Twitter
 
 A simple implementation of a Twitter-like platform. This project was created as part of an Advanced Programming course and allows users to perform essential social media activities in an intuitive and lightweight way.
 
